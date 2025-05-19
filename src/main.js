@@ -18,7 +18,7 @@ document.querySelector('#app').innerHTML = `
           <div class="video-container">
             <iframe 
               class="video-player"
-              src="https://www.youtube.com/embed/JXDtcWP46KA?si=MwSkgW0C4bYlKmA_"
+              src="https://www.youtube.com/embed/aARLB7C0Les?si=5YlHo7cgOxHKTmBn"
               title="Effet de la salinité sur l'écoulement"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
