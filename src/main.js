@@ -18,7 +18,7 @@ document.querySelector('#app').innerHTML = `
           <div class="video-container">
             <iframe 
               class="video-player"
-              src="https://www.youtube.com/embed/aARLB7C0Les?si=5YlHo7cgOxHKTmBn"
+              src="https://www.youtube.com/embed/YuhL6e0eVDM?si=s0D4IoGshOBPG3_A"
               title="Effet de la salinité sur l'écoulement"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -31,7 +31,7 @@ document.querySelector('#app').innerHTML = `
           <div class="video-container">
             <iframe 
               class="video-player"
-              src="https://www.youtube.com/embed/620omdSZzBs?si=hhUdacZEoJSmvVap"
+              src="https://www.youtube.com/embed/McFE1NRNo8Q?si=l74FjbtqnKBntNFD"
               title="Variation de l'angle d'entrée"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -44,14 +44,14 @@ document.querySelector('#app').innerHTML = `
           <div class="video-container">
             <iframe 
               class="video-player"
-              src="https://www.youtube.com/embed/YOUR_THIRD_VIDEO_ID"
-              title="Hauteur sous plafond et intrusion du front salé"
+              src="https://www.youtube.com/embed/6DTIEPfsFpY?si=OvhFbsQ2a0LEvNAp"
+              title="Hauteur sous plafond"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen>
             </iframe>
           </div>
-          <div class="video-caption">Hauteur sous plafond et intrusion du front salé</div>
+          <div class="video-caption">Hauteur sous plafond</div>
         </div>
       </div>
     </section>
